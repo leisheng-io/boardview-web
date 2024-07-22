@@ -1,2 +1,0 @@
-# boardview-web
- 
