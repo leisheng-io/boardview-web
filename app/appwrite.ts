@@ -4,7 +4,7 @@ export const client = new Client();
 
 client
   .setEndpoint("https://api.leisheng.one/v1")
-  .setProject("6695b4a100352e94e36c");
+  .setProject("66c72efa002bb3c4d2da");
 export const account = new Account(client);
 export { ID } from "appwrite";
 
